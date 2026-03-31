@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# 1주차 과제
+#  -*- coding: utf-8 -*-
 """
 ==================================================
   Turn-Based Robot Battle Game
